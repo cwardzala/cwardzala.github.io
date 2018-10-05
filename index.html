@@ -1,15 +1,24 @@
----
-layout: default
-description: Danger is GO!
----
-
-<div class="blog-index">
-    {% for post in site.posts %}
-    <article class="ientry">
-        <header>
-            <h2 class="entry-title">{{ post.date | date: "%Y-%m-%d" }} <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a></h2>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Cam Wardzala</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    </head>
+    <body>
+        <header class="header">
+            <h1>Cam Wardzala</h1>
         </header>
-        <div class="entry-content">{{ post.excerpt }}</div>
-    </article>
-    {% endfor %}
-</div>
+        <div class="container">
+            <div>
+                <h2 class="subhead">Web Developer</h2>
+                <p class="subhead">Cleveland, OH</p>
+                <p><a href="https://dev.to/cwardzala">Blog/Writing</a></p>
+                <p><a href="https://mastodon.social/@cwardzala">@cwardzala@mastodon.social</a></p>
+            </div>
+        </div>
+    </body>
+</html>
+
