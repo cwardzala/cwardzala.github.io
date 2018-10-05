@@ -1,3 +1,13 @@
+#
+# This file contains configuration flags to customize your site
+#
+
+# Name of your site (displayed in the header)
+name: Your Name
+
+# Short bio or description (displayed in the header)
+description: Web Developer from Somewhere
+
 theme: jekyll-theme-cayman
 twitter_username: camwardzala
 github_username:  cwardzala
@@ -17,4 +27,4 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-- CNAME
+  - CNAME
