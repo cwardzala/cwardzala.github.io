@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Put your best code forward"
+title: "Put Your Best Code Forward"
 date: 2012-08-10 16:55
 comments: true
-categories: 
+categories:
 ---
 
 As I review resumes for developers there is one thing that always becomes an issue, code examples. I have found that many developers don't have good code examples and sometimes don’t have them at all. Why is that? do they not see the value in proving they can in fact code? do they just forget to include those in their portfolio/resume? are schools (assuming they have attended school) not emphasizing the importance of code as a media? who knows all I know is that more developers need to have examples of code to give future employers a good sense of their abilities, this is just as important as a designer having examples in a portfolio or a business graduate having relevant experience on a resume.

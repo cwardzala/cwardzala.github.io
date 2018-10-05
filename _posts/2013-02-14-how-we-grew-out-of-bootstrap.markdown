@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "how we grew out of Bootstrap"
+title: "How We Grew Out of Bootstrap"
 date: 2013-02-14 09:06
 comments: true
 categories: ['cheezburger','tech','front end dev']

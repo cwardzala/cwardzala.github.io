@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Women in development"
+title: "Women in Development"
 date: 2012-10-16 13:18
 comments: true
 categories:

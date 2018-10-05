@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Responsive design is great but we need more."
+title: "Responsive Design is Great but We Need More."
 comments: true
 categories: [code, responsive]
 ---
