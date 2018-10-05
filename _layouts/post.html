@@ -6,7 +6,7 @@ single: true
 <article class="hentry" role="article">
     {% unless page.no_header %}
     <header class="page-header">
-        <h1 class="entry-title">{{ page.title}}</h1>
+        <h1 class="entry-title">{{page.title}}</h1>
     </header>
     {% endunless %}
 
@@ -17,9 +17,6 @@ single: true
     <div class="entry-content">{{ content }}</div>
 
     <footer>
-        {% unless page.sharing == false %}
-            {% include post/sharing.html %}
-        {% endunless %}
         <ul class="pager">
             {% if page.previous.url %}
             <li class="previous"><a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">&laquo; {{page.previous.title}}</a></li>
