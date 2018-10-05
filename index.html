@@ -1,0 +1,15 @@
+---
+layout: default
+description: Danger is GO!
+---
+
+<div class="blog-index">
+    {% for post in site.posts %}
+    <article class="ientry">
+        <header>
+            <h2 class="entry-title">{{ post.date | date: "%Y-%m-%d" }} <a href="{{ root_url }}{{ post.url }}">{{ post.title | titlecase }}</a></h2>
+        </header>
+        <div class="entry-content">{{ post.excerpt }}</div>
+    </article>
+    {% endfor %}
+</div>
