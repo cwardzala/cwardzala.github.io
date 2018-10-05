@@ -7,7 +7,7 @@ description: Danger is GO!
     {% for post in site.posts %}
     <article class="ientry">
         <header>
-            <h2 class="entry-title">{{ post.date | date: "%Y-%m-%d" }} <a href="{{ root_url }}{{ post.url }}">{{ post.title | titlecase }}</a></h2>
+            <h2 class="entry-title">{{ post.date | date: "%Y-%m-%d" }} <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a></h2>
         </header>
         <div class="entry-content">{{ post.excerpt }}</div>
     </article>
