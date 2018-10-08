@@ -4,8 +4,10 @@ header {
 }
 
 main {
+    font-family: "cubano-1","cubano-2",sans-serif;
     font-weight: bold;
     font-size: 2.5rem;
+    height: 100vh;
 }
 
 main h1 {
@@ -26,9 +28,9 @@ main h1 {
     height: 2.75rem;
     overflow-y: hidden;
     border-bottom: 1px solid #e5e5e5;
-  }
+}
 
-  .nav-scroller .nav {
+.nav-scroller .nav {
     display: flex;
     flex-wrap: nowrap;
     padding-bottom: 1rem;
@@ -37,10 +39,10 @@ main h1 {
     text-align: center;
     white-space: nowrap;
     -webkit-overflow-scrolling: touch;
-  }
+}
 
-  .nav-scroller .nav-link {
+.nav-scroller .nav-link {
     padding-top: .75rem;
     padding-bottom: .75rem;
     font-size: .875rem;
-  }
+}
