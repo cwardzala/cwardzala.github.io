@@ -4,6 +4,8 @@
     "location": "Cleveland, OH",
     "urls": [
         { "name": "My Site", "url": "https://camwardzala.com" },
+        { "name": "Github", "url": "https://github.com/cwardzala" },
+        { "name": "Blog", "url": "https://dev.to/cwardzala" },
         { "name": "Twitter", "url": "https://twitter.com/camwardzala" },
         { "name": "Mastodon", "url": "https://mastodon.social/web/@cwardzala" }
     ]
