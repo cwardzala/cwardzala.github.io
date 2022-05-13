@@ -2,9 +2,9 @@
     "name": "Cameron Wardzala",
     "bio": "Father, husband, front-end developer, punk rocker, atheist, pizza eater, and tea & beer drinker. 🍕🍺🍵☠️",
     "location": "Cleveland, OH",
-    "url": "https://camwardzala.com",
-    "social": [
-        { "name": "Twitter", "username": "@camwardzala" },
-        { "name": "Mastodon", "username": "@cwardzala@mastodon.social" }
+    "urls": [
+        { "name": "My Site", "url": "https://camwardzala.com" },
+        { "name": "Twitter", "url": "https://twitter.com/camwardzala" },
+        { "name": "Mastodon", "url": "https://mastodon.social/web/@cwardzala" }
     ]
 }
