@@ -1,12 +1,11 @@
 {
     "name": "Cameron Wardzala",
-    "bio": "Father, husband, front-end developer, punk rocker, atheist, pizza eater, and tea & beer drinker. 🍕🍺🍵☠️",
+    "bio": "Father, husband, front-end developer, punk rocker, pizza eater, and tea drinker. ☠️🍕🍵",
     "location": "Cleveland, OH",
     "urls": [
         { "name": "My Site", "url": "https://camwardzala.com" },
         { "name": "Github", "url": "https://github.com/cwardzala" },
-        { "name": "Blog", "url": "https://dev.to/cwardzala" },
-        { "name": "Twitter", "url": "https://twitter.com/camwardzala" },
+        { "name": "Blog", "url": "https://camwardzala.com/blog/" },
         { "name": "Mastodon", "url": "https://mastodon.social/web/@cwardzala" }
     ]
 }
